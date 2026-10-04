@@ -1,0 +1,6 @@
+{
+  "name": "My Money Calculator",
+  "description": "O'zbek so'mida (UZS) mablag'larni oson va qulay hisob-kitob qilish kalkulyatori.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
